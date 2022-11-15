@@ -7,6 +7,7 @@ public class Principal {
 			//int i = 0;
 			System.out.println("prueba1");
 			i = i+1;
+			
 			System.out.println("Prueba2");
 
 	}
